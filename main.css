@@ -20,6 +20,9 @@ footer {
     margin-right: 0.1rem;
   }
   .nav-link {
-    padding: 0.1rem 0.1rem;
+    padding: 0.2rem 0.2rem;
+  }
+  nav{
+    padding-right: 0.1rem;
   }
 }
